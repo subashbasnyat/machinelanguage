@@ -31,14 +31,11 @@ To run a N episode gym evaluation with trained model :
 1. Subash Basnet (https://github.com/subashbasnyat)
 2. Uttam Sapkota (https://github.com/uttsap)
 
-#**Report**
-[ML report.pdf](https://github.com/docker/machine/files/1714499/ML.report.pdf)
+# **Report**
+[final report.pdf](https://github.com/docker/machine/files/1714499/ML.report.pdf)
 
 # **References**
 
 1. https://arxiv.org/pdf/1602.01783.pdf
 2. https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
 3. https://github.com/liampetti/A3C-LSTM
-
-
-
