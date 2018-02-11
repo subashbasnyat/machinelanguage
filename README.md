@@ -9,7 +9,7 @@ This repository includes implementation of Asynchronous Advantage Actor-Critic (
 -   other python packages as scipy,numpy, opencv etc
 
   
-We implemented an A3C model, using LSTM's, and trained it on atari 2600 environment, Breakout-v0 provided in the Openai Gym. S
+We implemented an A3C model, using LSTM's, and trained it on atari 2600 environment, Breakout-v0 provided in the Openai Gym.
 Adam optimizer was used for sharing weights.
 
 # **Training**
