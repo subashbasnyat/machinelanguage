@@ -1,4 +1,4 @@
-# **BREAKOUT Game using A3C Pytorch**
+**BREAKOUT Game using A3C Pytorch**
 
 This repository includes implementation of Asynchronous Advantage Actor-Critic (A3C) in Pytorch.
 
@@ -18,24 +18,22 @@ result in decrease of training speed and effectiveness.
 To train agent in Breakout-v0 environment:
   python main.py --env-name Breakout-v0 --num-processes 4
   
-#** Test Run on Gym**
+# **Test**
 To run a N episode gym evaluation with trained model
   python test.py --env-name Breakout-v0 --num-episodes N
   
-#** Results:**
+# **Results**
 ![image](https://user-images.githubusercontent.com/19267332/36074665-8455f7ec-0f6b-11e8-89bc-c7b9fc02b336.png)
 
 ![image](https://user-images.githubusercontent.com/19267332/36074674-996b4448-0f6b-11e8-8def-6c3a3216a025.png)
 
-#** Team Members:**   
+# **Team Members**  
 1. Subash Basnet
 2. Uttam Sapkota
 
 
-#** References:**
-https://arxiv.org/pdf/1602.01783.pdf
-https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
-https://github.com/liampetti/A3C-LSTM
+# **References**
 
-
-
+1. https://arxiv.org/pdf/1602.01783.pdf
+2. https://medium.com/emergent-future/simple-reinforcement-learning-with-tensorflow-part-8-asynchronous-actor-critic-agents-a3c-c88f72a5e9f2
+3. https://github.com/liampetti/A3C-LSTM
