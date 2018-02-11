@@ -1,4 +1,4 @@
-**BREAKOUT Game using A3C Pytorch**
+# **BREAKOUT Game using A3C Pytorch**
 
 This repository includes implementation of Asynchronous Advantage Actor-Critic (A3C) in Pytorch.
 
