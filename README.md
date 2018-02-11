@@ -31,6 +31,8 @@ To run a N episode gym evaluation with trained model :
 1. Subash Basnet (https://github.com/subashbasnyat)
 2. Uttam Sapkota (https://github.com/uttsap)
 
+#**Report**
+[ML report.pdf](https://github.com/docker/machine/files/1714499/ML.report.pdf)
 
 # **References**
 
