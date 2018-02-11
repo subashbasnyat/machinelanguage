@@ -28,8 +28,8 @@ To run a N episode gym evaluation with trained model :
 ![image](https://user-images.githubusercontent.com/19267332/36074674-996b4448-0f6b-11e8-8def-6c3a3216a025.png)
 
 # **Team Members**  
-1. Subash Basnet
-2. Uttam Sapkota
+1. Subash Basnet (https://github.com/subashbasnyat)
+2. Uttam Sapkota (https://github.com/uttsap)
 
 
 # **References**
